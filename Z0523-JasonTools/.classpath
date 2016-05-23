@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Jar包/httpcomponents-client-4.5.2/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/Jar包/httpcomponents-client-4.5.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Jar包/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/Jar包/commons-httpclient-3.1/commons-httpclient-3.1.jar" sourcepath="F:/Jar包/commons-httpclient-3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Jar包/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
