@@ -14,6 +14,18 @@ public class Test {
 		tt = JasonFileTools.fileCrc(new File("d://test/default/default.txt"), 102400000);
 		System.out.println(tt);
 		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
+		sssssssssssssssssssssssssssssss
 	}
 
 	/**
